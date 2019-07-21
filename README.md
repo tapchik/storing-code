@@ -1,2 +1,3 @@
-# storing-code
-Repository for sharing my programs
+# Storing Code
+
+Repository for sharing my programs. 
